@@ -1,4 +1,5 @@
-# Travel-Salesman
+# Travel-Salesman(Hard constraint programming)
+
 
 Program in a language of your choice the following three procedures for constructing a solution to the traveling salesman problem:
 1. Generation of a random tour
