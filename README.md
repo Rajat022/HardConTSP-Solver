@@ -1,5 +1,5 @@
 # Travel-Salesman(Hard constraint programming)
-
+A repository for the implementation of a hard constraint programming solution for the Traveling Salesman Problem (TSP). This repository provides an efficient solver that tackles the TSP with hard constraints, ensuring optimal solutions within given constraints.
 
 Program in a language of your choice the following three procedures for constructing a solution to the traveling salesman problem:
 1. Generation of a random tour
